@@ -1,0 +1,95 @@
+{
+"name": "ARUN PRATAP SINGH",
+"education": [
+{
+"degree": "Master of Business Administration",
+"specialization": "",
+"university": "Lovely Professional University",
+"location": "Phagwara, Punjab",
+"start_year": "2021",
+"end_year": "2023"
+},
+{
+"degree": "Bachelor's in Computer Application",
+"specialization": "",
+"university": "Lovely Professional University",
+"location": "Phagwara, Punjab",
+"start_year": "2018",
+"end_year": "2021"
+}
+],
+"work_experience": [
+{
+"position": "Backend Developer",
+"company": "Mission Sports Pvt. Ltd.",
+"location": "Bengaluru",
+"start_date": "November 2022",
+"end_date": "May 18, 2023",
+"responsibilities": [
+"Led the development of an SEO admin panel using SerpAPI",
+"Improved the user experience and functionality of a single-page application",
+"Streamlined the deployment process using GitHub and Heroku"
+]
+},
+{
+"position": "MERN Stack Developer",
+"company": "Pushidea Inc",
+"location": "Remote, Mohali",
+"start_date": "April 2021",
+"end_date": "August 2021",
+"responsibilities": [
+"Worked on a Node.js web app with Express framework",
+"Integrated features from Stack Overflow and GitHub",
+"Implemented role-based authentication system using Passport.js",
+"Used MongoDB as the backend database"
+]
+}
+],
+"projects": [
+{
+"name": "ShapeYou",
+"description": "A web application that offers personalized diet and exercise plans from certified trainers",
+"technologies_used": [
+"Node.js",
+"Express",
+"HBS",
+"Passport.js"
+],
+"github_link": "https://github.com/arunsingh28/shapeYou_v1.0"
+},
+{
+"name": "Work-Space",
+"description": "A Node.js web app with Express framework, integrating features from Stack Overflow and GitHub",
+"technologies_used": [
+"Node.js",
+"Express",
+"MongoDB"
+],
+"github_link": "https://github.com/arunsingh28/work-spacee"
+}
+],
+"skills": [
+"React",
+"Node.js",
+"Next.js",
+"MongoDB",
+"JWT",
+"AWS",
+"Digital Ocean",
+"SEO",
+"Docker",
+"Git",
+"Visual Studio Code",
+"MongoDB Compass",
+"Postman",
+"Material-UI",
+"Chrome Developer Tools",
+"Hindi (Native)",
+"English (Fluent)"
+],
+"contact": {
+"email": "dev.arunsingh28@gmail.com",
+"linkedin": "www.linkedin.com/in/arunsingh28",
+"phone": "+91-7983613144"
+}
+}
